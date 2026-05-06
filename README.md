@@ -1,180 +1,238 @@
-# Systems Lab
+# 🧠 Systems Lab
 
-Experiments in sociotechnical systems, operational intelligence, infrastructure coordination, AI-assisted decision systems, and organizational execution.
+![Systems Lab Banner](assets/systems-lab-banner.png)
 
-This repository acts as the central portfolio hub for interconnected systems-thinking projects.
+Exploring how complex sociotechnical systems behave under coordination pressure.
 
-The focus is not isolated applications.
+Systems Lab is an ecosystem of projects focused on:
 
-The focus is understanding how complex systems behave when:
-
-- information flows
-- decisions propagate
-- infrastructure interacts
-- incentives conflict
-- coordination latency emerges
-- execution authority breaks down
-
----
-
-## Featured Projects
-
-### Operational Systems Intelligence
-Explores how information flow, execution authority, operational visibility, and organizational coordination interact inside complex systems.
-
-Focus:
-- information flow architecture
-- operational visibility
-- governed execution
-- escalation latency
-- coordination bottlenecks
-- execution intelligence
-- signal propagation
-- systemic failure patterns
-- organizational decision systems
-
-Includes:
-- Information Flow Simulator
-- Execution Path Mapping
-- Organizational Signal Routing
-- Coordination Layer Modeling
-- Latency Detection
-
----
-
-### Decision Intelligence System
-A prototype for transforming signals, uncertainty, trade-offs, and organizational feedback into structured decision intelligence.
-
-Focus:
-- signal vs noise
-- scenario analysis
-- decision quality
-- execution timing
-- organizational intelligence
-- adaptive systems
-
----
-
-### Energy System Optimizer – Full Sources
-A systems-thinking prototype for exploring coordinated energy portfolios and infrastructure trade-offs.
-
-Focus:
-- energy mix coordination
-- nuclear
-- solar
-- wind
-- hydro
-- geothermal
-- wave
-- storage systems
-- grid resilience
-
----
-
-### Global Water System Optimizer
-A prototype for modeling water as a coordinated system rather than a pure supply problem.
-
-Focus:
-- runoff
-- retention
-- irrigation
-- groundwater recharge
+- operational systems intelligence
 - infrastructure coordination
-- long-term resilience
+- AI-assisted governance
+- decision intelligence
+- systemic fragility
+- organizational dynamics
+- complex adaptive systems
+
+The goal is not simply to build software.
+
+The goal is to explore how systems behave when information, authority, dependencies, incentives, and execution interact at scale.
 
 ---
 
-## 🚀 Projects
+# 🌍 Ecosystem Vision
 
-| Project | Topic | Description |
-|---|---|---|
-| [Operational Systems Intelligence](https://github.com/rasient/operational-systems-intelligence) | Organizational Systems / Operations | Models how information, coordination, execution authority, and operational visibility interact inside complex organizations. |
-| [Decision Intelligence System](https://github.com/rasient/decision-intelligence-system) | Decision Intelligence • Organizational Systems • AI | A system for transforming signals, trade-offs, and feedback into organizational intelligence through visibility layers, latency detection, scenario simulation, and AI-assisted system analysis. |
-| [Global System Interactive Simulator](https://github.com/rasient/global-system-interactive-simulator) | Systems Simulation • AI • Complexity | Interactive simulation environment for exploring interconnected global systems, dependencies, and emergent behavior. |
-| [Global Ideal System Optimizer](https://github.com/rasient/global-ideal-system-optimizer) | Systems Optimization • Governance • AI | Experimental optimizer for modeling large-scale societal and infrastructural trade-offs across interconnected systems. |
-| [Global Infrastructure Optimizer](https://github.com/rasient/global-infrastructure-optimizer) | Infrastructure • Transport • Optimization | Prototype for analyzing infrastructure coordination, mobility systems, and transport-level trade-offs. |
-| [Energy System Optimizer](https://github.com/rasient/energy-system-optimizer) | Energy Systems • Infrastructure • Sustainability | System-thinking prototype for coordinated energy portfolios across nuclear, solar, wind, hydro, storage, and grid dynamics. |
-| [Energy System Optimizer – Full Sources](https://github.com/rasient/energy-system-optimizer-full-sources) | Energy • AI • Decision Systems | Expanded version integrating broader energy source exploration, infrastructure trade-offs, and future optimization layers. |
-| [Global Water System Optimizer](https://github.com/rasient/global-water-system-optimizer) | Water Systems • Sustainability • Infrastructure | Simulates irrigation, retention, runoff, groundwater recharge, and water infrastructure behavior as interconnected systems. |
-| [Satellite-Aware System Optimizer](https://github.com/rasient/satellite-aware-system-optimizer) | Geospatial AI • Satellite Systems • Infrastructure | Explores how satellite and geospatial patterns can support infrastructure, land-use, and environmental decision-making. |
-| [AI Calendar Task Router](https://github.com/rasient/ai-calendar-task-router) | AI Productivity • Coordination Systems | Experimental AI workflow system for intelligent scheduling, prioritization, and task routing. |
-| [AI Connector Hub](https://github.com/rasient/ai-connector-hub) | AI Infrastructure • Integration Systems | Connector-focused architecture experiment for integrating AI systems with external tools, workflows, and services. |
-| [LinkedIn Content System](https://github.com/rasient/linkedin-content-system) | Content Systems • Analytics • Automation | Lightweight content management system for organizing, tracking, and optimizing LinkedIn posts and ideas. |
-| [LinkedIn Content System V2](https://github.com/rasient/linkedin-content-system-v2) | AI Content Systems • Analytics • Workflow | Expanded content intelligence system with improved structure, analytics, and workflow capabilities. |
-| [AI Short Video Generator](https://github.com/rasient/ai-short-video-generator) | Media Systems • AI Tools • Automation | Streamlit-based tool for generating short-form videos using scene detection, overlays, captions, and lightweight automation. |
-
----
-
-## 🧩 Core Themes
-
-This lab explores recurring patterns across systems:
-
-- coordination vs optimization
-- signal vs noise
-- infrastructure resilience
-- organizational learning
-- human + AI collaboration
-- execution vs governance
-- feedback loops
-- system interfaces
-- resource flow dynamics
-- sociotechnical systems
-
----
-
-## ⚡ Philosophy
-
-Most real-world failures are not isolated technical failures.
+Many large-scale failures are not isolated technical failures.
 
 They emerge from:
 
-- weak coordination
-- delayed information flow
-- poor system visibility
-- conflicting incentives
-- fragmented decision-making
-- interface breakdowns between systems
+- coordination breakdowns
+- delayed signals
+- governance friction
+- dependency overload
+- fragmented incentives
+- systemic latency
+- operational drift
+- distorted reporting
+- infrastructure fragility
 
-This repository explores tools and ideas for understanding those interactions better.
+Systems Lab explores these dynamics across:
+
+- infrastructure
+- energy
+- water
+- governance
+- logistics
+- AI systems
+- organizations
+- operational coordination
+- societal systems
 
 ---
 
-## 🛠️ Stack Across Projects
+# 🏗 Systems Lab Ecosystem Architecture
 
-Common technologies used across experiments:
+![Systems Architecture](assets/ecosystem-architecture.png)
+
+```text
+Systems Lab
+│
+├── Operational Systems Intelligence
+│     ├── governance
+│     ├── coordination
+│     ├── fragility
+│     ├── AI runtime systems
+│     ├── signal propagation
+│     └── decision intelligence
+│
+├── Global Infrastructure Optimizer
+│     ├── energy
+│     ├── water
+│     ├── logistics
+│     ├── transport
+│     └── telecom
+│
+├── Satellite-Aware System Optimizer
+│
+├── Decision Intelligence System
+│
+├── Energy System Optimizer
+│
+├── Global Water System Optimizer
+│
+└── AI Short Video Generator
+```
+
+---
+
+# 🚀 Flagship Project
+
+## Operational Systems Intelligence
+
+![Operational Graph](assets/operational-graph.png)
+
+![Fragility Analysis](assets/fragility-analysis.png)
+
+![Cascade Simulation](assets/cascade-simulation.png)
+
+AI-assisted operational coordination and sociotechnical systems modeling.
+
+Models:
+
+- signal propagation
+- governance boundaries
+- fragility
+- coordination costs
+- operational latency
+- cascading failures
+- runtime system generation
+- decision intelligence
+- sociotechnical coordination
+
+Repository:
+
+https://github.com/rasient/operational-systems-intelligence
+
+---
+
+# 📦 Ecosystem Repositories
+
+| Project | Focus Area | Description |
+|---|---|---|
+| Operational Systems Intelligence | Operational Coordination | AI-assisted operational coordination and sociotechnical systems modeling |
+| Decision Intelligence System | Strategic Reasoning | Tradeoff-aware operational decision modeling |
+| Global Infrastructure Optimizer | Infrastructure Systems | Modeling interconnected infrastructure dependencies and resilience |
+| Energy System Optimizer | Energy Systems | Modeling energy coordination, resilience, and infrastructure tradeoffs |
+| Global Water System Optimizer | Water Infrastructure | Exploring retention, irrigation, and systemic water coordination |
+| Satellite-Aware System Optimizer | Geospatial Systems | Satellite-aware infrastructure and environmental systems modeling |
+| AI Short Video Generator | Media Systems | AI-assisted operational storytelling and communication tooling |
+
+---
+
+# 🧠 Systems Philosophy
+
+Many systems remain observable but not governable.
+
+Organizations often believe they are in control because they can:
+
+- monitor execution
+- collect reports
+- explain failures afterward
+- preserve operational evidence
+
+But visibility is not the same as governed execution.
+
+The critical question is:
+
+```text
+Can a system determine admissibility before consequence becomes binding?
+```
+
+---
+
+# 🔬 Research Directions
+
+- operational systems intelligence
+- infrastructure coordination
+- AI runtime modeling
+- governance boundaries
+- signal vs noise systems
+- cascade simulation
+- fragility analysis
+- organizational digital twins
+- operational cognition systems
+- sociotechnical coordination
+- decision intelligence
+- personal operational intelligence
+
+---
+
+# ⚙ Core Technologies
 
 - Python
-- Streamlit
-- Next.js
-- React
-- Tailwind CSS
-- OpenAI APIs
-- FFmpeg
-- Data visualization tools
+- Systems Simulation
+- Graph Modeling
+- Operational Intelligence
+- AI Runtime Modeling
+- Geospatial Systems
+- Infrastructure Simulation
+- Sociotechnical Analysis
 
 ---
 
-## 🔮 Long-Term Direction
+# 🗺 Ecosystem Roadmap
 
-The broader goal is building systems that improve:
+## Phase 1 — Operational Modeling
+Signal propagation, dependency graphs, fragility, latency, coordination systems.
 
-- collective decision-making
-- infrastructure coordination
-- organizational intelligence
-- resource optimization
-- adaptive learning under uncertainty
+## Phase 2 — Coordination Intelligence
+Governance boundaries, operational tradeoffs, cascade simulation, decision intelligence.
+
+## Phase 3 — AI Runtime Systems
+AI-assisted runtime modeling, scenario generation, operational memory.
+
+## Phase 4 — Organizational Digital Twins
+Persistent multi-system coordination and adaptive operational intelligence.
 
 ---
 
-## 👤 Author
+# 🌌 Long-Term Direction
+
+The long-term goal is not simply software tooling.
+
+The direction is toward:
+
+- operational intelligence
+- coordination science
+- systems philosophy
+- AI-assisted governance
+- sociotechnical systems modeling
+- infrastructure resilience
+- multi-scale system simulation
+
+Ultimately exploring:
+
+```text
+What should a person, organization, or institution do inside a complex system to produce the best long-term outcome?
+```
+
+---
+
+# 👤 Author
 
 Alexander Berg
 
 Exploring:
-→ Sociotechnical Systems
-→ Infrastructure Strategy
-→ AI-Augmented Coordination
-→ Organizational Intelligence
 
-LinkedIn:
-https://www.linkedin.com/in/alexander-berg-7ab863242/
+- Sociotechnical Systems
+- Operational Systems Intelligence
+- Infrastructure Coordination
+- Systems Philosophy
+- AI-Augmented Governance
+- Complex Adaptive Systems
+
+---
+
+# 🔗 Main Ecosystem Repository
+
+https://github.com/rasient/systems-lab
