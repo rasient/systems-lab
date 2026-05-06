@@ -10,7 +10,7 @@ This repository collects projects exploring how complex systems behave under coo
 
 | Project | Topic | Description |
 |---|---|---|
-| [Decision Intelligence System](https://github.com/rasient/decision-intelligence-system) | Decision Intelligence • Organizational Systems • AI | A system focused on signal filtering, trade-off visibility, organizational learning, and improving decision quality under complexity. |
+| [Decision Intelligence System](https://github.com/rasient/decision-intelligence-system) | Decision Intelligence • Organizational Systems • AI | A system for transforming signals, trade-offs, and feedback into organizational intelligence through visibility layers, latency detection, scenario simulation, and AI-assisted system analysis. |
 | [Global System Interactive Simulator](https://github.com/rasient/global-system-interactive-simulator) | Systems Simulation • AI • Complexity | Interactive simulation environment for exploring interconnected global systems, dependencies, and emergent behavior. |
 | [Global Ideal System Optimizer](https://github.com/rasient/global-ideal-system-optimizer) | Systems Optimization • Governance • AI | Experimental optimizer for modeling large-scale societal and infrastructural trade-offs across interconnected systems. |
 | [Global Infrastructure Optimizer](https://github.com/rasient/global-infrastructure-optimizer) | Infrastructure • Transport • Optimization | Prototype for analyzing infrastructure coordination, mobility systems, and transport-level trade-offs. |
