@@ -65,6 +65,14 @@ Systems Lab
 │     ├── signal propagation
 │     └── decision intelligence
 │
+├── Information Flow Simulator
+│     ├── signal degradation
+│     ├── escalation dynamics
+│     ├── organizational bottlenecks
+│     ├── communication latency
+│     ├── coordination friction
+│     └── visibility gaps │
+│
 ├── Global Infrastructure Optimizer
 │     ├── energy
 │     ├── water
@@ -120,6 +128,7 @@ https://github.com/rasient/operational-systems-intelligence
 | Project | Focus Area | Description |
 |---|---|---|
 | Operational Systems Intelligence | Operational Coordination | AI-assisted operational coordination and sociotechnical systems modeling |
+| Information Flow Simulator | Organizational Coordination & Signal Propagation | Simulates how information moves, degrades, or gets delayed inside complex systems. |
 | Decision Intelligence System | Strategic Reasoning | Tradeoff-aware operational decision modeling |
 | Global Infrastructure Optimizer | Infrastructure Systems | Modeling interconnected infrastructure dependencies and resilience |
 | Energy System Optimizer | Energy Systems | Modeling energy coordination, resilience, and infrastructure tradeoffs |
