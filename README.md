@@ -72,6 +72,12 @@ A set of prototypes exploring:
 
 * https://github.com/rasient/ai-calendar-task-router
 
+### 🧠 Decision Intelligence & Organizational Systems
+
+| Project | Description |
+|---|---|
+| [decision-intelligence-system](https://github.com/rasient/decision-intelligence-system) | A Decision Intelligence System focused on signal filtering, trade-off visibility, organizational learning, and improving decision quality under complexity. |
+
 ---
 
 ## 💡 Approach
