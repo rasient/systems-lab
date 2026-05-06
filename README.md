@@ -71,7 +71,7 @@ Systems Lab
 │     ├── organizational bottlenecks
 │     ├── communication latency
 │     ├── coordination friction
-│     └── visibility gaps │
+│     └── visibility gaps
 │
 ├── Global Infrastructure Optimizer
 │     ├── energy
