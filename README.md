@@ -98,4 +98,4 @@ Exploring:
 → Organizational Intelligence
 
 LinkedIn:
-https://www.linkedin.com/in/alexander-berg-systems/
+https://www.linkedin.com/in/alexander-berg-7ab863242/
