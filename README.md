@@ -1,8 +1,86 @@
-# 🧠 Systems Lab
+# Systems Lab
 
-Experiments in infrastructure, AI, optimization, and sociotechnical systems.
+Experiments in sociotechnical systems, operational intelligence, infrastructure coordination, AI-assisted decision systems, and organizational execution.
 
-This repository collects projects exploring how complex systems behave under coordination constraints, feedback loops, resource limitations, and organizational decision-making.
+This repository acts as the central portfolio hub for interconnected systems-thinking projects.
+
+The focus is not isolated applications.
+
+The focus is understanding how complex systems behave when:
+
+- information flows
+- decisions propagate
+- infrastructure interacts
+- incentives conflict
+- coordination latency emerges
+- execution authority breaks down
+
+---
+
+## Featured Projects
+
+### Operational Systems Intelligence
+Explores how information flow, execution authority, operational visibility, and organizational coordination interact inside complex systems.
+
+Focus:
+- information flow architecture
+- operational visibility
+- governed execution
+- escalation latency
+- coordination bottlenecks
+- execution intelligence
+- signal propagation
+- systemic failure patterns
+- organizational decision systems
+
+Includes:
+- Information Flow Simulator
+- Execution Path Mapping
+- Organizational Signal Routing
+- Coordination Layer Modeling
+- Latency Detection
+
+---
+
+### Decision Intelligence System
+A prototype for transforming signals, uncertainty, trade-offs, and organizational feedback into structured decision intelligence.
+
+Focus:
+- signal vs noise
+- scenario analysis
+- decision quality
+- execution timing
+- organizational intelligence
+- adaptive systems
+
+---
+
+### Energy System Optimizer – Full Sources
+A systems-thinking prototype for exploring coordinated energy portfolios and infrastructure trade-offs.
+
+Focus:
+- energy mix coordination
+- nuclear
+- solar
+- wind
+- hydro
+- geothermal
+- wave
+- storage systems
+- grid resilience
+
+---
+
+### Global Water System Optimizer
+A prototype for modeling water as a coordinated system rather than a pure supply problem.
+
+Focus:
+- runoff
+- retention
+- irrigation
+- groundwater recharge
+- infrastructure coordination
+- long-term resilience
 
 ---
 
@@ -10,6 +88,7 @@ This repository collects projects exploring how complex systems behave under coo
 
 | Project | Topic | Description |
 |---|---|---|
+| [Operational Systems Intelligence](https://github.com/rasient/operational-systems-intelligence) | Organizational Systems / Operations | Models how information, coordination, execution authority, and operational visibility interact inside complex organizations. |
 | [Decision Intelligence System](https://github.com/rasient/decision-intelligence-system) | Decision Intelligence • Organizational Systems • AI | A system for transforming signals, trade-offs, and feedback into organizational intelligence through visibility layers, latency detection, scenario simulation, and AI-assisted system analysis. |
 | [Global System Interactive Simulator](https://github.com/rasient/global-system-interactive-simulator) | Systems Simulation • AI • Complexity | Interactive simulation environment for exploring interconnected global systems, dependencies, and emergent behavior. |
 | [Global Ideal System Optimizer](https://github.com/rasient/global-ideal-system-optimizer) | Systems Optimization • Governance • AI | Experimental optimizer for modeling large-scale societal and infrastructural trade-offs across interconnected systems. |
