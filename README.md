@@ -16,6 +16,8 @@ Systems Lab is an ecosystem of projects focused on:
 
 The goal is not simply to build software.
 
+The goal is to make complex system behavior easier to understand visually.
+
 The goal is to explore how systems behave when information, authority, dependencies, incentives, and execution interact at scale.
 
 ---
@@ -162,6 +164,8 @@ Can a system determine admissibility before consequence becomes binding?
 # 🔬 Research Directions
 
 - operational systems intelligence
+- infrastructure resilience
+- coordination dynamics
 - infrastructure coordination
 - AI runtime modeling
 - governance boundaries
